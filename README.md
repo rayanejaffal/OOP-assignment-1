@@ -1,8 +1,8 @@
 # OOP-assignment-1
-Master1 Data Science 
-University of Angers
-Course: POO et traitement des données en Python
-Prof: Jacquelin Charbonnel
+# Master1 Data Science
+# University of Angers
+# Course: POO et traitement des données en Python
+# Prof: Jacquelin Charbonnel
 
 Énoncé
 1. Objectif
