@@ -62,7 +62,3 @@ Plus précisément, le comportement de ces 3 applications devra être le suivant
     
 
 Ecrire ces 3 applications en factorisant le code commun dans un module, de façon à ce qu’il n’y ait pas de code dupliqué entre ces 3 applications.
-
-Jacquelin Charbonnel   —   Support publié sous licence Creative Commons BY-NC-ND   —   2017-2023
-
-var myDate = new Date(document.lastModified); myNewDate = new Intl.DateTimeFormat( undefined, {year: "numeric", month: "long", day: "numeric", hour: "2-digit", minute: "2-digit"} ) .format(myDate).replace(/\\./g, '-'); document.getElementById("lastmodify").innerHTML = myNewDate ;
