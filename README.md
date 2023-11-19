@@ -4,43 +4,6 @@
 #### Course: POO et traitement des données en Python
 #### Prof: Jacquelin Charbonnel
 
-  Énoncé :: Master Data Science 1    
-
-[Master Data Science 1](../../..)
-
-### [Génie logiciel](../index.html)
-
-*   *   [Généralités](../intro.html)
-    *   [Processus de développement](../processus.html)
-    *   [Application à Fortran](../fortran.html)
-    *   [Application à Python](../python.html)
-    *   Problème
-        *   [Énoncé](sujet.html)
-        *   [Éléments de réponse](indications.html)
-
-Génie logiciel 2024
-
-*   Génie logiciel
-    *   [2024](../index.html)
-*   Git b.a. ba
-    *   [2024](../../../git_baba/2024/index.html)
-*   Index
-    *   [2024](../../../ds1/2024/index.html)
-*   Python objet
-    *   [2024](../../../python_objet/2024/index.html)
-*   Unix b.a. ba
-    *   [2024](../../../unix_baba/2024/index.html)
-
-[](../../../ds1/2024/index.html)
-
-*   [Génie logiciel](../index.html)
-*   Problème
-*   [Énoncé](sujet.html)
-
-[Edit this Page](file:///users/200003833/gitwc/antora_components/genie_logiciel/starts/ds1/modules/probleme/pages/sujet.adoc)
-
-modifié le
-
 Énoncé
 ======
 
